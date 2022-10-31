@@ -6,4 +6,9 @@
 777777777
 8888
 0000000
+<<<<<<< Updated upstream
 404
+=======
+dev
+bug
+>>>>>>> Stashed changes
